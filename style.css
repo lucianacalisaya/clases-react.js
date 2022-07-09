@@ -1,0 +1,7 @@
+img {
+    border-radius: 100%;
+    width: 15%;
+}
+.disabled {
+    opacity: 0.5;
+}
